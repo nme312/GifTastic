@@ -58,6 +58,7 @@ $(document).ready(function () {
 
     }
     // console.log(button);
+    console.log("lets see if the rename worked");
 
 
 
